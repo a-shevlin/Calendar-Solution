@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.proj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.csproj",
       "projectName": "Calendar",
-      "projectPath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.proj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\obj\\",
       "projectStyle": "PackageReference",
@@ -33,6 +33,11 @@
           "targetAlias": "net5.0",
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

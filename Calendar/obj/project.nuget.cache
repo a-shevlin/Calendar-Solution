@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiFJBzhKxvkSRYnzW+a+/LEpzaLJQXvRW1nBxxWWy2uGLW+w+idEQ3g3GppI5DchXviGUEu2eYzvTBRqlVGfAQ==",
+  "dgSpecHash": "vXtIEVmIpyDSFoI+s3FSUFdWlK5mscpDkxN4e8SxY4L0bOsf1kyxiACQxdV12nwThl5n/OhleKBU58zX6b2pNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.proj",
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Calendar.Solution\\Calendar\\Calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",

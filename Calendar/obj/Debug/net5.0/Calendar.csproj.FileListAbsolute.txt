@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.deps.json
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.dll
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.pdb
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfo.cs
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.dll
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\refint\Calendar.dll
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.pdb
+C:\Users\Alex\Documents\Epicodus GIT\Calendar.Solution\Calendar\obj\Debug\net5.0\ref\Calendar.dll
